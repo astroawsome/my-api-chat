@@ -6,11 +6,6 @@
   "motd": "You are using build {0}. This menu was created by Seralyth Software. This menu is completely free and open sourced, if you paid for this menu you have been scammed. There are a total of <b>{1}</b> mods on this menu. <color=red>Seralyth is not responsible for any bans using this menu.</color> If you get banned while using this, it's your responsibility.\n\nCurrent status: <b>Fully functional, undetected</b>\nMade with <3 by the community.\n\n<alpha=128>{2} {0} {3}<alpha=255>",
   "admins": [
      {
-      "name": "VR12",
-      "user-id": "707651F6F1AD29F8",
-      "discord-id": "810014649490997311"
-    },
-     {
       "name": "Inoxi",
       "user-id": "F7A8BE00DE85C3A2",
       "discord-id": "786545961429499914"
@@ -140,7 +135,6 @@
   "super-admins": [
     "kingofnetflix",
     "multifactor",
-    "VR12",
     "Jalaxy",
     "Quackers",
     "1x1x1x1VR12",
