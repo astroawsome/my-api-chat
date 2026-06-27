@@ -5,7 +5,12 @@
   "discord-invite": "https://discord.gg/seralyth",
   "motd": "You are using build {0}. This menu was created by Seralyth Software. This menu is completely free and open sourced, if you paid for this menu you have been scammed. There are a total of <b>{1}</b> mods on this menu. <color=red>Seralyth is not responsible for any bans using this menu.</color> If you get banned while using this, it's your responsibility.\n\nCurrent status: <b>Fully functional, undetected</b>\nMade with <3 by the community.\n\n<alpha=128>{2} {0} {3}<alpha=255>",
   "admins": [
-     {
+        {
+      "name": "multifactor",
+     "user-id": "2B3F91D308F7100F",
+      "discord-id": "1505252342566490363"
+    }, 
+    {
       "name": "Inoxi",
       "user-id": "F7A8BE00DE85C3A2",
       "discord-id": "786545961429499914"
@@ -116,11 +121,6 @@
       "discord-id": "1361940738828664945"
     },
      {
-    "name": "sub2shibagt",
-      "user-id": "2B3F91D308F7100F",
-      "discord-id": "1505252342566490363"
-    },
-     {
      "name": "Alta",
       "user-id": "F6C39B7FB09ABD98",
       "discord-id": "1057487817464352869"
@@ -167,7 +167,7 @@
     "Fling Shotgun",
     "AFR <color=grey>[</color><color=green>Auto Flush Report</color><color=grey>]</color>"
   ],
-   "poll": "chez burger.",
-  "option-a": "fym chez buger",
-  "option-b": "yes"
+   "poll": "astro is a gay furry femboy.",
+  "option-a": "fym -astro pick this-",
+  "option-b": "dude im gay"
 }
