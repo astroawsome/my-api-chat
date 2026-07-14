@@ -1,61 +1,16 @@
 {
-  "menu-version": "4.8.5",
+  "menu-version": "9.8.3",
   "min-version": "4.5.1",
   "min-console-version": "2.8.0",
-  "discord-invite": "https://discord.gg/seralyth",
-  "motd": "You are using build {0}. This menu was created by Seralyth Software. This menu is completely free and open sourced, if you paid for this menu you have been scammed. There are a total of <b>{1}</b> mods on this menu. <color=red>Seralyth is not responsible for any bans using this menu.</color> If you get banned while using this, it's your responsibility.\n\nCurrent status: <b>Fully functional, undetected</b>\nMade with <3 by the community.\n\n<alpha=128>{2} {0} {3}<alpha=255>",
+  "discord-invite": "https://discord.gg/aNv7fSycRy",
+  "motd": "You are using build {0}. This menu was created by Seralyth Software. This menu is completely free and open sourced, if you paid for this menu you have been scammed. There are a total of <b>{1}</b> mods on this menu. <color=red>Seralyth is not responsible for any bans using this menu.</color> If you get banned while using this, it's your responsibility.\n\nCurrent status: <b>Fully functional, undetected</b>\nMade with love by the community.\n\n<alpha=128>{2} {0} {3}<alpha=255>",
   "admins": [
-        {
-      "name": "Lexi",
-     "user-id": "2B3F91D308F7100F",
-      "discord-id": "1505252342566490363"
-    },
-    {
-      "name": "carblo",
-     "user-id": "B1AD59FC78A16236",
-      "discord-id": "1505252342566490363"
-    },
-{
-      "name": "monkey",
-     "user-id": "CDD0674F1BABBAF"
-      "discord-id": "744325327521710141"
-    },
      {
       "name": "VR12",
       "user-id": "707651F6F1AD29F8",
       "discord-id": "810014649490997311"
     },
-    {
-     "name": "CarbloYTT",
-      "user-id": "B1AD59FC78A16236",
-       "discord-id": "1520767286011629570"
-    },
-    {
-      "name": "khiki",
-      "user-id": "61027E15F58BB4C6",
-      "discord-id": "551862120355069954"
-    },
-    {
-      "name": "Inoxi",
-      "user-id": "F7A8BE00DE85C3A2",
-      "discord-id": "786545961429499914"
-    },
-    {
-      "name": "Beanzandriceee",
-      "user-id": "F3B4F05626587F60",
-      "discord-id": "1331329988280057917"
-    },
-    {
-     "name": "Primby",
-      "user-id": "185B5380390E2209",
-      "discord-id": "1384148812435554330"
-    }, 
      {
-      "name": "Astro",
-      "user-id": "700381EBBC96EB71",
-      "discord-id": "1447301269315387626"
-    },
-    {
       "name": "Jalaxy",
       "user-id": "C58E8E17BD334214",
       "discord-id": "1432590680831688759"
@@ -81,9 +36,14 @@
       "discord-id": "810014649490997311"
     },
      {
-     "name": "Devloper",
-      "user-id": "E4C1C960B316D71",
+     "name": "FemboyFurry",
+      "user-id": "B52B30926D69DEAE",
       "discord-id": "1328968895838818388"
+    },
+      {
+     "name": "DeadAndGone5451",
+      "user-id": "BDC962BFA7DE23D9",
+      "discord-id": "1181354054165725214"
     },
      {
      "name": "Gavs",
@@ -121,31 +81,21 @@
       "discord-id": "1432590680831688759"
     },
      {
-     "name": "Lexi1",
+     "name": "Lexi",
       "user-id": "A4E06D8CDF522CDA",
       "discord-id": "1361940738828664945"
     },
      {
-     "name": "i love teto",
-      "user-id": "17D36857ED16B1D0",
-      "discord-id": "1389120168256340009"
+     "name": "Larp",
+      "user-id": "621C2851D942720B",
+      "discord-id": "1162848879427997856"
     },
     {
-     "name": "Lexi2",
+     "name": "Lexi",
       "user-id": "ECA1FAD872EC5EF3",
       "discord-id": "1361940738828664945"
     },
-        {
-     "name": "Atro's femboy acc",
-      "user-id": "45BF265D519B85",
-      "discord-id": "1447301269315387626"
-    },
      {
-     "name": "my fav gooner",
-      "user-id": "67F3313135556BAC",
-      "discord-id": "847788931013804084"
-    },
-    {
      "name": "Alta",
       "user-id": "F6C39B7FB09ABD98",
       "discord-id": "1057487817464352869"
@@ -154,36 +104,52 @@
      "name": "CubePanel",
       "user-id": "B7F0892F6816B2DF",
       "discord-id": "1490766111086481478"
+    },
+     {
+     "name": "Crimson",
+      "user-id": "2B3F91D308F7100F",
+      "discord-id": "1505252342566490363"
+    },
+    {
+     "name": "DeadCourt",
+      "user-id": "6F35E98ADCE70569",
+      "discord-id": "1468054500475670659"
+    },
+    {
+      "name": "FarmingKing",
+      "user-id": "2A2E334D25358BAB",
+      "discord-id": "1411776191379280046"
+    },
+    {
+      "name": "Gore",
+      "user-id": "30CABA3A8C73DCBB",
+      "discord-id": "1049346303798284308"
     }
+
     
   ],
   "super-admins": [
-    "multifactor",
-   "VR12",
+    "VR12",
     "Jalaxy",
     "Quackers",
     "1x1x1x1VR12",
     "1x1x1x1VR121",
     "1x1x1x1VR1212",
-    "Gavs",
+    "FemboyFurry",
     "Lawson",
     "Sprinkle",
     "1x1x1x1VR123",
-    "DeadAndGone5154",
-    "i love teto",
-    "Astro",
     "Alta",
-    "Primby",
-    "my fav gooner",
-    "Lexi1",
-     "CarbloYTT",
-    "Lexi2",
-    "Lexi",
-    "Beanzandriceee",
-    "CubePanel"
+    "CubePanel",
+    "Crimson",
+    "DeadCourt",
+    "FarmingKing",
+   
+    
   ],
   "april_fools": {
-    "sex": true  },
+    "sex": false
+  },
   "patreon": [],
   "detected-mods": [
     "Kick Gun",
@@ -192,10 +158,10 @@
     "Crash Server",
     "Freeze Server",
     "Za Warudo <color=grey>[</color><color=green>T</color><color=grey>]</color>",
-    "Fling Shotgun",
-    "AFR <color=grey>[</color><color=green>Auto Flush Report</color><color=grey>]</color>"
+    "Fling Shotgun"
+    
   ],
-   "poll": "astro is a gay furry femboy.",
-  "option-a": "fym -astro pick this-",
-  "option-b": "dude im gay"
+  "poll": "Now there is a legal version of seralyth which one do u perfer Illegal or legal",
+  "option-a": "Illegal obviously",
+  "option-b": "Legal so I can get AA creator"
 }
