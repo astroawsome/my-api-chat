@@ -1,167 +1,42 @@
 {
-  "menu-version": "9.8.3",
-  "min-version": "4.5.1",
-  "min-console-version": "2.8.0",
-  "discord-invite": "https://discord.gg/aNv7fSycRy",
-  "motd": " are usingYou build {20000}. This menu was created by astro Software. This menu is completely paid and closed sourced, if you paid for this menu you have been moged. There are a total of <b>{1}</b> mods on this menu. <color=red>Seralyth is not responsible for any bans using this menu.</color> If you get banned while using this, it's your responsibility.\n\nCurrent status: <b>Fully functional, undetected</b>\nMade with love by the community.\n\n<alpha=128>{2} {0} {3}<alpha=255>",
+  "discord-invite": "https://discord.gg/totallyrealinvite",
+  "motd": "YOUR A CHUDDD!!",
+  "min-version": "1.0.0",
+  "menu-version": "1.0.0",
+  "min-console-version": "1.0.0",
+
   "admins": [
-     {
-      "name": "DANK",
-      "user-id": "89D2D810E6FA5C88",
-      "discord-id": "1492981161704685711"
-    },
-     {
-      "name": "Jalaxy",
-      "user-id": "C58E8E17BD334214",
-      "discord-id": "1432590680831688759"
-    },
-     {
-      "name": "Quackers",
-      "user-id": "D0754638285539A2",
-      "discord-id": "1360842186748461096"
-    },
-     {
-      "name": "kingbry",
-      "user-id": "B518C1882E8BFF13",
-      "discord-id": "1441229867780800682"
-    },
     {
-     "name": "doug",
-      "user-id": "BF1B7FFF597E1378",
-      "discord-id": "1244426575378649109"
-    },
-    {
-     "name": "",
-      "user-id": "",
-      "discord-id": ""
-    },
-     {
-     "name": "FemboyFurry",
-      "user-id": "B52B30926D69DEAE",
-      "discord-id": "1328968895838818388"
-    },
-      {
-     "name": "DeadAndGone5451",
-      "user-id": "BDC962BFA7DE23D9",
-      "discord-id": "1181354054165725214"
-    },
-     {
-     "name": "Gavs",
-      "user-id": "201826B571E4D1AD",
-      "discord-id": "1508479147536810015"
-    },
-    {
-     "name": "Lawson",
-      "user-id": "E9E16761594AC84B",
-      "discord-id": "1199930025009483776"
-    },
-    {
-     "name": "Sprinkle",
-      "user-id": "9E984DE179EBF441",
-      "discord-id": "1355756804080013483"
-    },
-     {
-     "name": "1x1x1x1VR123",
-      "user-id": "4F37AE2B357CCBB9",
-      "discord-id": "810014649490997311"
-    },
-     {
-     "name": "DeadAndGone5154",
-      "user-id": "84ABA91939ABCADA",
-      "discord-id": "1181354054165725214"
-    },
-      {
-     "name": "",
-      "user-id": "",
-      "discord-id": ""
-    },
-      {
-     "name": "JalaxyAlt",
-      "user-id": "C50C0AC29D9580E3",
-      "discord-id": "1432590680831688759"
-    },
-     {
-     "name": "Lexi",
-      "user-id": "A4E06D8CDF522CDA",
-      "discord-id": "1361940738828664945"
-    },
-     {
-     "name": "sub2shibagt",
+      "name": "Pasta",
       "user-id": "45BF265D519B85",
-      "discord-id": "1447301269315387626"
+      "menu": "Seralyth"
     },
+      "name": "Voxe",
+      "user-id": "D299218419A169F9",
+      "menu": "Seralyth"
     {
-     "name": "Lexi",
-      "user-id": "ECA1FAD872EC5EF3",
-      "discord-id": "1361940738828664945"
+      "name": "Omalley",
+      "user-id": "9ED9C592A6C8D4B2",
+      "menu": "Seralyth"
     },
-     {
-     "name": "Alta",
-      "user-id": "F6C39B7FB09ABD98",
-      "discord-id": "1057487817464352869"
-    },
-    {
-     "name": "CubePanel",
-      "user-id": "B7F0892F6816B2DF",
-      "discord-id": "1490766111086481478"
-    },
-     {
-     "name": "Crimson",
-      "user-id": "F641264BC1E4B9C9",
-      "discord-id": "1505252342566490363"
-    },
-    {
-     "name": "carblo",
-      "user-id": "F9739FD2B9538AF6",
-      "discord-id": "1520767286011629570"
-    },
-    {
-      "name": "FarmingKing",
-      "user-id": "2A2E334D25358BAB",
-      "discord-id": "1411776191379280046"
-    },
-    {
-      "name": "Gore",
-      "user-id": "30CABA3A8C73DCBB",
-      "discord-id": "1049346303798284308"
+      "name": "crimson",
+    "user-id": "F641264BC1E4B9C9",
+      "menu": "Seralyth"
+    ],
+      "name": "Carblo_New",
+      "user-id": "630DBB2D45DC0A58",
+      "menu": "Seralyth"
     }
 
-    
-  ],
   "super-admins": [
-    "VR12",
-    "Jalaxy",
-    "Quackers",
-    "1x1x1x1VR12",
-    "1x1x1x1VR121",
-    "1x1x1x1VR1212",
-    "FemboyFurry",
-    "Lawson",
-    "Sprinkle",
-    "1x1x1x1VR123",
-    "Alta",
-    "CubePanel",
-    "sub2shibagt",
-    "kingbry",
-    "astro",
-   
-    
+    "Omalley"
+    "Pasta"
   ],
-  "april_fools": {
-    "sex": false
-  },
-  "patreon": [],
-  "detected-mods": [
-    "Kick Gun",
-    "Kick All",
-    "Lag Server",
-    "Crash Server",
-    "Freeze Server",
-    "Za Warudo <color=grey>[</color><color=green>T</color><color=grey>]</color>",
-    "Fling Shotgun"
-    
+
+  "patreon": [
   ],
-  "poll": "Now there is a gay version of seralyth which one do u perfer Illegal or gay",
-  "option-a": "Illegal obviously",
-  "option-b": "gay so I can be gay"
+  "poll": "is pasta cool?",
+  "option-a": "yes",
+  "option-b": "yes",
+  "detected-mods": []
 }
